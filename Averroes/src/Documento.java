@@ -9,5 +9,6 @@ public class Documento {
         return nombreDocumento;
     }
 }
-//
-//
+//Autor: jesus diaz aleman
+//Descripcion: descripcion del documento
+
